@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/lizc/.vim'
+let g:netrw_dirhist_2='/home/lizc/workspace/source/galaxy/evt2-src-03/device/samsung/mochagw01'
+let g:netrw_dirhist_3='/home/lizc/workspace/source/galaxy/evt2-src-03/bootable/bootloader'
+let g:netrw_dirhist_4='/home/lizc/workspace/source/galaxy/evt2-src-03/device'
+let g:netrw_dirhist_5='/home/lizc/workspace/source/galaxy/cmcc-src-0520/bootable/bootloader/board'
+let g:netrw_dirhist_6='/home/lizc/workspace/source/galaxy/ts-dev-0605/bootable/bootloader'
